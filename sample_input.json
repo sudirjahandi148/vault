@@ -1,0 +1,10 @@
+{
+  "pools": [
+    {
+      "name": "AaveUSDC",
+      "apr": 0.05,
+      "compound_per_year": 365,
+      "performance_fee_pct": 0.1
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "threshold": 6.0,
+  "window_hours": 24,
+  "output_format": "jsonl",
+  "rpc_endpoint": "https://cloudflare-eth.com",
+  "name": "VAULT"
+}
